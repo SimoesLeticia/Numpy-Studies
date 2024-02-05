@@ -9,7 +9,7 @@ Este repositório é dedicado aos meus estudos e práticas com a biblioteca NumP
 | **03-tipos-de-dados-numpy**         | Exploração dos tipos de dados disponíveis no NumPy.                          |
 | **04-shape-reshape-flatten**        | Manipulação do formato dos arrays usando `shape`, `reshape` e `flatten`.     |
 | **05-index-sort-slicing**           | Operações de indexação, ordenação e fatiamento em arrays NumPy.              |
-| **06-fancy-index-mask-where**       | Utilização de índices avançados, máscaras e a função `where`.                |
+| **06-fancy-indexing-mask-where**    | Utilização de índices avançados, máscaras e a função `where`.                |
 | **07-vetorize-broadcast**           | Vetorização de funções e uso do broadcasting em NumPy.                       |
 | **08-concatenate-delete-operacoes** | Concatenação, exclusão de elementos e operações matemáticas em NumPy.        |
 | **09-save-load-numpy**              | Salvar e carregar dados NumPy.                                               |
