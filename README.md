@@ -29,3 +29,5 @@ Contribuições são bem-vindas! Se você encontrar erros, tiver sugestões ou q
 [Documentação oficial do NumPy](https://numpy.org/doc/stable)
 
 [NumPy Quickstart Tutorial](https://numpy.org/devdocs/user/quickstart.html)
+
+**Divirta-se aprendendo e analisando dados!** 🚀📊
