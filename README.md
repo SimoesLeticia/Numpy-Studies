@@ -13,7 +13,7 @@ Criada em 2005 por Travis Oliphant, NumPy é um projeto de código aberto e grat
 05. **Indexação, Ordenação e Slicing**: Operações de indexação, ordenação e fatiamento em arrays NumPy. 
 06. **Fancy Indexing, Máscaras e Where**: Utilização de índices avançados, máscaras e a função `where`.
 07. **Vetorização e Broadcasting**: Vetorização de funções e uso do broadcasting em NumPy.
-08. **Concatenação, Exclusão e Outras Operações**: Concatenação, exclusão de elementos e operações matemáticas em NumPy.
+08. **Concatenação, Exclusão e Outras Operações**: Concatenação, exclusão de elementos e operações matemáticas.
 09. **Salvamento e Carregamento de Dados**: Salvar e carregar dados NumPy.
 10. **Exercícios de Fixação**: Exercícios de fixação para aplicar os conhecimentos adquiridos.
 
